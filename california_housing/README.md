@@ -5,8 +5,8 @@
 
 ## Introduction
 **The California Housing Dataset is downloaded from Kaggle. It is a structured dataset containing demographic and housing-related information for various districts in California. It has 37,137 rows. Each row represents a housing block.
-**This project used structured data mining methods, such as linear regression, random forest classification, and K-means clustering.seeks to uncover the key factors that influence housing prices across various districts in California.
-**Key findings are visually presented through geographic maps, box plots, scatter plots, and segmentation visualizations, making the analysis accessible to a broad audience.
+This project used structured data mining methods, such as linear regression, random forest classification, and K-means clustering.seeks to uncover the key factors that influence housing prices across various districts in California.
+Key findings are visually presented through geographic maps, box plots, scatter plots, and segmentation visualizations, making the analysis accessible to a broad audience.
 
 ## Authors
 
