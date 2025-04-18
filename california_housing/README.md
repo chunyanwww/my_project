@@ -10,5 +10,6 @@
 
 ## Authors
 
-* [Chunyan Wang](ch350704@dal.ca) 
-
+* [Chunyan Wang](ch350704@dal.ca)
+* [Pavankumar Sakhare](pavankumar.sakhare@dal.ca)
+* [Ming Bi](mn535230@dal.ca)
